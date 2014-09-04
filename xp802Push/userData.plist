@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bubble</key>
+	<string>No</string>
+	<key>fb_id</key>
+	<string></string>
+	<key>sound</key>
+	<string>No</string>
+	<key>vibrate</key>
+	<string>Yes</string>
+	<key>token_id</key>
+	<string></string>
+	<key>firstTimeUse</key>
+	<string>YES</string>
+	<key>user_nickname</key>
+	<string></string>
+	<key>isUserHasPic</key>
+	<string>NO</string>
+	<key>group_id</key>
+	<string>0</string>
+	<key>member1</key>
+	<string></string>
+	<key>member2</key>
+	<string></string>
+	<key>member3</key>
+	<string></string>
+	<key>member4</key>
+	<string></string>
+	<key>member5</key>
+	<string></string>
+</dict>
+</plist>
